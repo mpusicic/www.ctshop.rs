@@ -1,2 +1,2 @@
-# www.ctshop.rs
+# Comtrade Registration Test
 login testing
